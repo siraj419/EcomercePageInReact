@@ -1,0 +1,13 @@
+.filter-button{
+    padding: 8px 20px;
+    background: transparent;
+    outline: none;
+    border: 1px solid #e0e0e0;
+    border-radius: 3px;
+    color: #666;
+    cursor: pointer;
+}
+
+.filter-button:hover{
+    color: black;
+}
