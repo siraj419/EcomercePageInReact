@@ -1,6 +1,6 @@
 import { FaStar } from "react-icons/fa";
 import { BsBucketFill } from "react-icons/bs";
-import './Card.css'
+import './card.css'
 
 function Card({product}) {
   return (

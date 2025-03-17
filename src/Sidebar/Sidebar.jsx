@@ -1,4 +1,4 @@
-import "./Sidebar.css";
+import "./sidebar.css";
 import { GiShoppingCart } from "react-icons/gi";
 import Category from "./Category/Category";
 import Price from "./Price/Price";
