@@ -1,4 +1,4 @@
-import './Recommended.css';
+import './recommended.css';
 import { useState, useContext } from 'react';
 import FilterButton from '../components/FilterButton/FilterButton';
 import Products from '../Products/Products';
