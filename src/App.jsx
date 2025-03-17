@@ -1,4 +1,4 @@
-import Nav from "./Navbar/NAv";
+import Nav from "./Navbar/Nav";
 import Sidebar from "./Sidebar/Sidebar";
 import Recommended from "./Recommended/Recommended";
 import { ContextProvider } from "./store/store";
